@@ -1,6 +1,6 @@
 <h1>Hi, I'm Osvaldo
 
-# 💫 About Me:
+<h2>About Me:
 <br>I'm a student of civil engineering in computer science at the Universidad Austral de Chile
 
 
